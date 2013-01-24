@@ -7,4 +7,6 @@ public class Settings {
     public static final int MOTOR_LEFT = 1;
     
     
+    public static final int DRIVE_JOYSTICK = 1;
+    
 }
